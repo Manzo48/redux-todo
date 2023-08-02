@@ -1,0 +1,14 @@
+.todo__list{
+
+    display: flex;
+    flex-direction: column;
+    max-height: 1000px;
+    justify-content: space-around;
+
+}
+.todoshka{
+    margin-top: 20px;
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+}
